@@ -24,7 +24,7 @@ Warnet reimagines the classic internet café as a decentralized digital infrastr
 Get started in seconds with our automated installer:
 
 ```bash
-curl -sSL https://warnet.io/install.sh | bash
+curl -sSL https://warnet.fun/install.sh | bash
 ```
 
 ---
@@ -99,7 +99,7 @@ startSession();
 
 ## 🔗 Links
 
-- **Website**: [warnet.io](https://warnet.io)
+- **Website**: [warnet.io](https://warnet.io) / [warnet.fun](https://warnet.fun)
 - **X (Twitter)**: [@WarNetOnSol](https://x.com/WarNetOnSol)
 - **GitHub**: [WarNetdotfun/WARNET](https://github.com/WarNetdotfun/WARNET)
 
